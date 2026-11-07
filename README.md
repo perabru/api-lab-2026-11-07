@@ -146,3 +146,5 @@ bruno.pera@unifesp.br
 Local read-only catalog of eight original fictional creatures, four types and four abilities. Combined filters, accent-insensitive search, related resources and pagination links that retain filters. Ten tests passed, including real HTTP and process restart. Node.js core only; no PokéAPI integration or hosted endpoint.
 
 **Licença MIT · Bruno Michel Pera** · [Calendário](https://github.com/perabru/peradev-apis/blob/main/docs/10-days.md)
+
+[Post bilíngue publicado e verificado em 07/11/2026](https://www.linkedin.com/feed/update/urn:li:activity:7524774666121453568/).

@@ -24,3 +24,5 @@ O validador de dados ajuda novas contribuições a manter IDs únicos e vínculo
 Apoio voluntário por Pix destacado no README: bruno.pera@unifesp.br. Incentiva a continuidade; o código permanece aberto e gratuito.
 
 **English:** A local catalog of original fictional creatures with related types and abilities, combined filters, accent-insensitive search and pagination. Ten tests passed. Explore the demo and data validator; contribute an original creature or reproducible edge case.
+
+[Post bilíngue publicado e verificado em 07/11/2026](https://www.linkedin.com/feed/update/urn:li:activity:7524774666121453568/).

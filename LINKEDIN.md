@@ -1,6 +1,13 @@
 # LinkedIn — Fable Atlas API
 
-Entrega: 07/11/2026. Estado: pendente de publicação após confirmação do código e ausência de duplicata no perfil Bruno Pera. Um post PT/EN, 2026 caracteres.
+- Estado: publicado e verificado em 07/11/2026.
+- Perfil: https://www.linkedin.com/in/brunopera00/
+- Permalink: https://www.linkedin.com/feed/update/urn:li:activity:7524774666121453568/
+- Autorização de 04/11/2026 para este desafio até 12/11/2026.
+- Antes do envio: manifesto e LINKEDIN.md sem registro do dia; atividades recentes mostravam Thread Notes (06/11), Board Lane (05/11) e Order Once (04/11), sem Fable Atlas.
+- Publicar acionado uma única vez. Verificados “Publicação concluída.” e texto PT/EN no permalink, com cartão do repositório correto.
+- Código confirmado antes do envio: https://github.com/perabru/api-lab-2026-11-07/commit/33c084535ab09453f553a8a5e672d8e7c6aac018
+- Texto de origem: 2026 caracteres, português e inglês em um post.
 
 ## Texto
 
