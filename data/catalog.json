@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "fictional": true,
+  "types": [
+    {
+      "id": "bruma",
+      "name": "Bruma",
+      "description": "Criaturas que vivem entre névoas imaginárias."
+    },
+    {
+      "id": "cristal",
+      "name": "Cristal",
+      "description": "Criaturas com estruturas minerais inventadas."
+    },
+    {
+      "id": "folha",
+      "name": "Folha",
+      "description": "Criaturas ligadas a jardins fictícios."
+    },
+    {
+      "id": "pulso",
+      "name": "Pulso",
+      "description": "Criaturas que emitem ritmos luminosos imaginários."
+    }
+  ],
+  "abilities": [
+    {
+      "id": "eco",
+      "name": "Eco",
+      "description": "Repete um som suave no universo fictício."
+    },
+    {
+      "id": "farol",
+      "name": "Farol",
+      "description": "Emite luz para orientar outras criaturas imaginárias."
+    },
+    {
+      "id": "passo-leve",
+      "name": "Passo leve",
+      "description": "Caminha sem amassar as folhas do cenário fictício."
+    },
+    {
+      "id": "trama",
+      "name": "Trama",
+      "description": "Entrelaça fibras de um jardim inventado."
+    }
+  ],
+  "creatures": [
+    {
+      "id": "aurifol",
+      "name": "Aurifol",
+      "description": "Pequena criatura de folhas douradas que ilumina trilhas imaginárias.",
+      "types": [
+        "folha",
+        "pulso"
+      ],
+      "abilities": [
+        "farol",
+        "trama"
+      ]
+    },
+    {
+      "id": "brumeco",
+      "name": "Brumeco",
+      "description": "Uma nuvem de bolso que repete assobios em vales inventados.",
+      "types": [
+        "bruma"
+      ],
+      "abilities": [
+        "eco"
+      ]
+    },
+    {
+      "id": "cristalume",
+      "name": "Cristalume",
+      "description": "Guardião mineral que acende cristais de um jardim fictício.",
+      "types": [
+        "cristal",
+        "pulso"
+      ],
+      "abilities": [
+        "farol"
+      ]
+    },
+    {
+      "id": "folhisco",
+      "name": "Folhisco",
+      "description": "Mora sob folhas e tece pequenos abrigos imaginários.",
+      "types": [
+        "folha"
+      ],
+      "abilities": [
+        "passo-leve",
+        "trama"
+      ]
+    },
+    {
+      "id": "nevoleta",
+      "name": "Nevoleta",
+      "description": "Desliza pela névoa sem deixar pegadas no cenário inventado.",
+      "types": [
+        "bruma"
+      ],
+      "abilities": [
+        "passo-leve"
+      ]
+    },
+    {
+      "id": "ritmora",
+      "name": "Ritmora",
+      "description": "Marca o compasso de chuvas luminosas que só existem nesta coleção.",
+      "types": [
+        "pulso"
+      ],
+      "abilities": [
+        "eco",
+        "farol"
+      ]
+    },
+    {
+      "id": "silvitrama",
+      "name": "Silvitrama",
+      "description": "Entrelaça folhas e brumas em pontes de um bosque fictício.",
+      "types": [
+        "folha",
+        "bruma"
+      ],
+      "abilities": [
+        "trama"
+      ]
+    },
+    {
+      "id": "vidrino",
+      "name": "Vidrino",
+      "description": "Uma criatura cristalina que responde com ecos delicados.",
+      "types": [
+        "cristal"
+      ],
+      "abilities": [
+        "eco",
+        "passo-leve"
+      ]
+    }
+  ]
+}

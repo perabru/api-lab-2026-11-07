@@ -1,0 +1,23 @@
+name: Relatar comportamento do catálogo
+description: Um filtro ou relação com exemplo reproduzível.
+title: "[Bug] "
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: Versão do Node e sistema
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: URL completa, filtros e página
+      description: Inclua type, ability, q, limit e offset quando presentes.
+    validations:
+      required: true
+  - type: textarea
+    id: expectation
+    attributes:
+      label: Resultado obtido e esperado
+    validations:
+      required: true
